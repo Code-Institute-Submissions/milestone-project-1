@@ -9,11 +9,11 @@ The philosophy followed in the design of this website is clarity and minimalist 
 
 AIn the follwing frames a mockup of the web pages was created to give a guidance to the visual and functional characterstics of the intended final diesgn.
 
-mockup/index.png
-mockup/music.png
-mockup/gallery.png
-mockup/about.png
-mockup/contact.png
+![index page](mockup/index.png)
+![music page](mockup/music.png)
+![gallery page](mockup/gallery.png)
+![about page](mockup/about.png)
+![contact page](mockup/contact.png)
 
 ## Features
 
