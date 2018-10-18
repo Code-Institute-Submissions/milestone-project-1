@@ -91,3 +91,7 @@ a {
 a:hover {
     color:rgb(172, 172, 172);
 }
+
+.song-title {
+    color: rgba(56, 231, 65, 0.808);
+}
