@@ -61,7 +61,7 @@ The text for the storyand about section copied from the (https://en.wikipedia.or
 
 ### Media
 
-The photos, video, songs used in this site were provided by Code Institute
+The photos, video, songs used in this site were provided by Code Institute, https://github.com/Code-Institute-Org/project-assets
 
 ### Acknowledgements
 
