@@ -10,13 +10,10 @@ https://rafocus.github.io/milestone-project-1/index.html
 
 The philosophy followed in the design of this website is clarity and minimalist style to present the content efficiently. The choice of background pictures and colors is intended to immerse the fans in the muscial style of the band. 
 
-A mockup of the web pages was created to give a guidance to the visual and functional characterstics of the intended final design.
+Wireframes of the web pages were created to give a guidance to the visual and functional characterstics of the intended final design.
 
-<img src="mockup/home.png" alt="home page" height="400"/> <img src="mockup/music.png" alt="music page" height="400"/>
-
-<img src="mockup/gallery.png" alt="gallery page" height="400"/> <img src="mockup/about.png" alt="about page" height="400"/>
-
-<img src="mockup/contact.png" alt="contact page" height="400"/>
+<img src="wireframes/home.png" alt="home page" height="400"/> <img src="wireframes/music.png" alt="music page" height="400"/> <img src="wireframes/gallery.png" alt="gallery page" height="400"/>
+<img src="wireframes/about.png" alt="about page" height="400"/> <img src="wireframes/contact.png" alt="contact page" height="400"/>
 
 ## Features
 
