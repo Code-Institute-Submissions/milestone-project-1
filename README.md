@@ -12,8 +12,8 @@ The philosophy followed in the design of this website is clarity and minimalist 
 
 Wireframes of the web pages were created to give a guidance to the visual and functional characterstics of the intended final design.
 
-<img src="wireframes/home.png" alt="home page" height="400"/> <img src="wireframes/music.png" alt="music page" height="400"/> <img src="wireframes/gallery.png" alt="gallery page" height="400"/>
-<img src="wireframes/about.png" alt="about page" height="400"/> <img src="wireframes/contact.png" alt="contact page" height="400"/>
+<img src="assets/wireframes/home.png" alt="home page" height="400"/> <img src="assets/wireframes/music.png" alt="music page" height="400"/> <img src="assets/wireframes/gallery.png" alt="gallery page" height="400"/>
+<img src="assets/wireframes/about.png" alt="about page" height="400"/> <img src="assets/wireframes/contact.png" alt="contact page" height="400"/>
 
 ## Features
 
