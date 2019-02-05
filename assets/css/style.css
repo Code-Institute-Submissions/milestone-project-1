@@ -16,8 +16,8 @@ body {
     background: url("../images/band.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height:70px;
-    width:70px;
+    height: 70px;
+    width: 70px;
     border-radius: 70px;
     border: 3px solid white;
 }
@@ -29,8 +29,8 @@ body {
 
 .box {
     background: rgba(68, 68, 68,0.5);
-    margin-top:50px;
-    border-radius:5px;
+    margin-top: 50px;
+    border-radius: 5px;
 }
 
 .music-list .row {
@@ -42,7 +42,7 @@ body {
 }
 
 .gallery img {
-    height:200px;
+    height: 200px;
     padding: 10px;
 }
 
@@ -52,8 +52,8 @@ footer {
 }
 
 .spotify {
-    color:rgb(180, 180, 180);
-    font-size:2.5rem;
+    color: rgb(180, 180, 180);
+    font-size: 2.5rem;
 }
 
 .spotify:hover {
@@ -68,13 +68,13 @@ footer {
     background: url("../assets/images/dj.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height:100px;
-    width:100px;
-    border-radius:100px;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
 }
 
 footer .social i {
-    color:grey;
+    color: grey;
     margin: 10px;
     font-size: 2rem;
 }
@@ -89,7 +89,7 @@ a {
 }
 
 a:hover {
-    color:rgb(172, 172, 172);
+    color: rgb(172, 172, 172);
 }
 
 .song-title {
