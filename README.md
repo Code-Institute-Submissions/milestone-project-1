@@ -52,6 +52,10 @@ https://rafocus.github.io/milestone-project-1/index.html
 
 ## Credits
 
+### Design
+
+Rafocus
+
 ### Content
 
 The text for the storyand about section copied from the (https://en.wikipedia.org/wiki/The_Monkees)
