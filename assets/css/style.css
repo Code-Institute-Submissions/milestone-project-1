@@ -13,7 +13,7 @@ body {
 
 .logo {
     display: inline-block;
-    background: url("../assets/images/band.jpg");
+    background: url("../images/band.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height:70px;
